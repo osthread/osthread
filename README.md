@@ -27,8 +27,4 @@ Hi there! 👋 I’m Maxie, a **software developer, problem-solver, and open-sou
     <img src="https://github-readme-stats.vercel.app/api?username=osthread&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200">
     <br>
 </div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading</p>
 </div>
