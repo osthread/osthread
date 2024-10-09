@@ -16,7 +16,7 @@ Hi there! 👋 I’m Maxie, a **software developer, problem-solver, and open-sou
 - 🤝 **Collaborator**: I’m always excited to contribute to open-source projects and collaborate with fellow developers to create something amazing!
 
 ### Current Projects
-- 🎯 **Working on**: [TLO.SH](https://tlo.sh) and [SanctionTV](https://sanction.tv)
+- 🎯 **Working on**: [SanctionTV](https://sanction.tv)
 - 💬 **Ask me anything**: [Here](https://github.com/osthread/osthread/issues)
 
 ### Fun Facts
